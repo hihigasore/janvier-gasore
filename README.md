@@ -1,2 +1,2 @@
 # janvier-gasore
-Mon repertoire personel
+Mon repertoire personel sur github
